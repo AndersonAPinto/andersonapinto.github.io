@@ -65,6 +65,7 @@
     cursor: pointer;
     justify-content: center;
     align-items: center;
+    margin-bottom: 1vh;
 }
 .btn_works p{
     display: flex;
@@ -83,5 +84,10 @@
 }
 .icon_works:hover{
     border: 1px solid rgb(192, 192, 185);
-    
+}
+.i{
+    width: 1vw;
+}
+.i :hover{
+    font-size: 1.05em;
 }
