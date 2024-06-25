@@ -4,7 +4,7 @@ import '../Layout/navBarStyleMobile.css';
 import { MdOutlineKeyboardDoubleArrowDown } from "react-icons/md";
 import { AiOutlineAlert } from "react-icons/ai";
 import { Link } from "react-router-dom";
-import { FaWhatsapp, FaLinkedinIn, FaFacebook, FaGithub, FaInstagram, FaRegEnvelope } from "react-icons/fa";
+import { FaWhatsapp, FaLinkedinIn, FaGithub } from "react-icons/fa";
 
 
 
