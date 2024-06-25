@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.634325f1.css",
+    "main.js": "/static/js/main.2887f4a3.js",
+    "static/media/WebSiteConsumptionEletricCar.png": "/static/media/WebSiteConsumptionEletricCar.5fc2625d2d0eac54aa8d.png",
+    "static/media/Site temperamentos.png": "/static/media/Site temperamentos.c65a1ae1a8e6de46336b.png",
+    "static/media/WebSite(Englistest).png": "/static/media/WebSite(Englistest).e61b88651db7c3d73bd5.png",
+    "static/media/Site Gadj.png": "/static/media/Site Gadj.545a93b30837a11e3809.png",
+    "static/media/photo.png": "/static/media/photo.ef36bcc44a7537045550.png",
+    "static/media/App_1.png": "/static/media/App_1.b45507bd255b02ec9253.png",
+    "static/media/Gerador de Senhas.png": "/static/media/Gerador de Senhas.883371a6925907c4a69c.png",
+    "index.html": "/index.html",
+    "main.634325f1.css.map": "/static/css/main.634325f1.css.map",
+    "main.2887f4a3.js.map": "/static/js/main.2887f4a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.634325f1.css",
+    "static/js/main.2887f4a3.js"
+  ]
+}
