@@ -1,6 +1,5 @@
 import React from "react";
 import { HiArrowDownRight } from "react-icons/hi2";
-import SiteGadj from '../../imgs/Site Gadj.png';
 import WebSite_Englistest from '../../imgs/WebSite(Englistest).png';
 import WebSiteCOnsEletr from '../../imgs/WebSiteConsumptionEletricCar.png';
 import QuatroTemperamentos from '../../imgs/Site temperamentos.png';

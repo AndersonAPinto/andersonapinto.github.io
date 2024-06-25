@@ -4,7 +4,7 @@ import AboutMe from './components/Pages/AboutMe.jsx';
 import Contact from './components/Pages/Contact.jsx';
 import Home from './components/Pages/Home.jsx';
 import PageCookie from './components/Layout/PageCookie.jsx';
-import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
+import {HashRouter  as Router, Routes, Route} from 'react-router-dom';
 
 function App() {
     return(
