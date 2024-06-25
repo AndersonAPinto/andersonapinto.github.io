@@ -1,0 +1,54 @@
+.container__AboutMe{
+    display: flex;
+    margin: auto;
+    width: 90%;
+    height: 100vh;
+    align-items: center;
+    flex-direction: column;   
+}
+.title h1{
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 4em;
+    display: flex;
+}
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    width: 70vw;
+    height: 15vh;
+}
+.container_texts{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    height: 85vh;
+    padding: 0;
+    margin-top: 0;
+    justify-content: space-around;
+    align-items: center;
+}
+.picture_div{
+    height: 70vh;
+    width: 40%;
+    border: 1px solid #C68107;
+    text-align: center;
+    border-radius: 50%;
+    overflow: hidden;
+    background-image: radial-gradient(circle, #000000, #C68107);
+}
+.text_div{
+    width: 50%;
+    text-align: justify;
+    font-size: 1.5em;
+}
+.btn_aboutme{
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    font-size: .7em;
+    background-image: radial-gradient(circle, #000000, #C68107);
+}

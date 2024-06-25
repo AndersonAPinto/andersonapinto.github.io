@@ -1,0 +1,67 @@
+.container__Contact{
+    display: flex;
+    margin: auto;
+    width: 90%;
+    height: 100vh;
+    align-items: center;
+    flex-direction: column;
+}
+.title_contact h1{
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 4em;
+    display: flex;
+    justify-content: start;
+    width: 70vw;
+    height: 15vh;
+    margin-bottom: 20px;
+}
+.div_title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.icons_contact{
+    width: 600px;
+    height:auto;
+    text-align: justify;
+    margin: 20px 0;
+}
+.div_icons {
+    display: flex;
+   margin-top: 10vh;
+    width: 50vw;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 3em;
+    transform: 0.1s ease-in-out;
+    
+}
+
+.icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70px; 
+    height: 70px; 
+    border-radius:50%;
+    
+    color: #312502;
+}
+.icons:hover{
+    transition: 0.5s;
+    background-color: #493103;
+}
+
+.frame{
+    position: absolute;
+    height: 75vh;
+    width: 48vw;
+    z-index: 0;
+    top: 17vh;
+    background-image: radial-gradient(circle, #312502, #C68107);
+    border-radius: 10px;
+}

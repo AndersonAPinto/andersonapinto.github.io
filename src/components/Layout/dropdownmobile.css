@@ -1,0 +1,8 @@
+@media (max-width: 520px) {
+    .header ul{
+        font-size: 0.7em;
+        right: 1.5vw;
+        width: auto;
+        padding: 2px;
+    }
+}

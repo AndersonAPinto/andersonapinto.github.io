@@ -1,0 +1,67 @@
+@media (max-width: 900px) {
+    .container__NavBar {
+        position: absolute;
+        /* Pode precisar ajustar para 'static' ou 'relative' */
+        top: 35%;
+        left: 0;
+        width: 100%;
+    }
+
+    .text_alert {
+        top: -30vh;
+        left: 0;
+        /* Ajusta a posição para não ficar fora da tela */
+    }
+
+    .container_text h1 {
+        font-size: 6em;
+        /* Tamanho de fonte menor para caber na tela */
+    }
+
+    .container_text h5,
+    .btn_works p {
+        font-size: 1.5em;
+        /* Tamanho de fonte menor */
+    }
+
+    .icon_works {
+        font-size: 1em;
+        /* Tamanho de ícone ajustado */
+    }
+
+    /* Adicione mais regras conforme necessário */
+}
+
+@media (max-width: 520px) {
+    .container__NavBar {
+        position: absolute;
+        /* Pode precisar ajustar para 'static' ou 'relative' */
+        top: 30%;
+        left: 0;
+        width: 100%;
+    }
+
+    .text_alert {
+        top: -25vh;
+        left: 2vw;
+        /* Ajusta a posição para não ficar fora da tela */
+    }
+
+    .container_text h1 {
+        font-size: 2.3em;
+        /* Tamanho de fonte menor para caber na tela */
+    }
+
+    .container_text h5,
+    .btn_works p {
+        font-size: 1em;
+        /* Tamanho de fonte menor */
+    }
+
+    .icon_works {
+        font-size: 1.5em;
+        /* Tamanho de ícone ajustado */
+    }
+
+    /* Adicione mais regras conforme necessário */
+}

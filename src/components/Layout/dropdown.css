@@ -1,0 +1,36 @@
+.header ul {
+    position: absolute;
+    width: 11vw;
+    height: 50vh;
+    background-color: rgba(49, 49, 47, 0);
+    border: 0.2em solid #e6bd0760;
+    border-radius: 10px;
+    display: flex;
+    z-index: 1;
+    top: 15%;
+    right: .5vw;
+    font-size: 1em;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-around; 
+}
+
+.header ul li :hover {
+    color: #e6bd07b6;
+    padding: 1vh 1vw;
+    transition: .2s ease-in-out;
+}
+
+.btn_header {
+    position: absolute;
+    font-size: 2em;
+    top: 4vh;
+    right: 3vw;
+    background-color: #e6bd0700;
+    border: none;
+    cursor: pointer;
+    color: aliceblue;
+}
+.btn_header:active{
+    font-size: 2em;
+}
