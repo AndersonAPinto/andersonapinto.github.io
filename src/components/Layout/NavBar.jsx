@@ -30,14 +30,14 @@ function NavBar() {
                 </button>
                 <div className="container_text">
                     <h1>Anderson</h1>
-                    <h5>Desenvolvedor Frontend</h5>
+                    <h5>Desenvolvedor Backend</h5>
                     <button className="btn_works" >
                         <Link to={'/experience'}><p>MEUS TRABALHOS <MdOutlineKeyboardDoubleArrowDown className="icon_works" /></p></Link>
                     </button>
-                    <div style={{ display:'flex', fontSize: '30px', width: '15vw', justifyContent: 'space-around', padding: '1vh 0', height: '8vh', margin: 0,  alignItems: 'center'}}>
-                    <div className="i"><a href="https://www.linkedin.com/in/andersonapinto/" target="_blank" rel="noopener noreferrer"><FaLinkedinIn /></a></div>
-                    <div className="i"><a href="https://github.com/AndersonAPinto" target="_blank" rel="noopener noreferrer"><FaGithub /></a></div>
-                    <div className="i"><a href="https://wa.me/5551997802755" target="_blank" rel="noopener noreferrer"><FaWhatsapp /></a></div>
+                    <div style={{ display:'flex', fontSize: '30px', width: '15vw', justifyContent: 'space-around', padding: '1vh 0', height: '8vh', marginRight: 10,  alignItems: 'center'}}>
+                        <div className="i"><a href="https://www.linkedin.com/in/andersonapinto/" target="_blank" rel="noopener noreferrer"><FaLinkedinIn /></a></div>
+                        <div className="i"><a href="https://github.com/AndersonAPinto" target="_blank" rel="noopener noreferrer"><FaGithub /></a></div>
+                        <div className="i"><a href="https://wa.me/5551997802755" target="_blank" rel="noopener noreferrer"><FaWhatsapp /></a></div>
                     </div>
                     
                 </div>

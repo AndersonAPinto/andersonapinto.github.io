@@ -58,9 +58,10 @@
         
         
     }
-    .text_div{
-        font-size: 1em;
+    .text_div p{
+        font-size: 0.3em;
         padding: 1.5vw;
+        height: 20%;
     }
 }
 
@@ -85,7 +86,7 @@
         margin-left: 3.5vw;
     }
     .text_div p{
-        font-size: 1em;
+        font-size: 0.9em;
         padding: 1vw;
         
         align-items: flex-start;

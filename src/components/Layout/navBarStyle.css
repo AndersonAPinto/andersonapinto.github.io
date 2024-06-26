@@ -29,7 +29,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 30vh;
+    height: 20vh;
     margin: 0vh 0 10vh 0;
     padding: 0;
 }
@@ -74,7 +74,7 @@
 }
 
 .btn_works:active{
-    padding: 6px 29px;
+    padding: 6px 30px;
 }
 .icon_works{
    font-size: 2em;
